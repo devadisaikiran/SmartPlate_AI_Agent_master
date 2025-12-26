@@ -13,7 +13,7 @@
 
 ### 1. Nutrition Analysis (Pasta)
 The AI analyzes the image to identify the food type and calculate estimated calories and macros.
-![Pasta Analysis](assets/Screenshot%202025-12-20%20161644.png)
+![Pasta Analysis]("C:\Users\Sai Kiran\OneDrive\Pictures\Screenshots\Screenshot 2025-12-26 115010.png")
 
 ### 2. Complex Meal Detection (Thali)
 Even with multiple items on a single plate (Roti, Pickle, Namkeen), the AI breaks down each item individually.
